@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Reports() {
+function Git4() {
     return (
         <div>
-            
+            <h1>Git4</h1>
         </div>
     )
 }
 
-export default Reports
+export default Git4
